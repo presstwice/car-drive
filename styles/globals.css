@@ -1,3 +1,5 @@
+/* import the styles from your style sheet, then reference them liek you would a javascript object */ 
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;

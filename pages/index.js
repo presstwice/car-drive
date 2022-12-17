@@ -1,10 +1,12 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
+/* import the styles from your style sheet, then reference them liek you would a javascript object */ 
 import styles from '../styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
+/* The default export is a react component, each file or page NEED 1 default */ 
 export default function Home() {
   return (
     <>

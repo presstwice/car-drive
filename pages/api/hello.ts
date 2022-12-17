@@ -1,4 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+// the api directory is used for setting up server-only routes 
 import type { NextApiRequest, NextApiResponse } from 'next'
 
 type Data = {

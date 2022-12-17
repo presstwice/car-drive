@@ -1,3 +1,5 @@
+/* Allows you to define classes that only apply to a specific route or component */ 
+
 .main {
   display: flex;
   flex-direction: column;
